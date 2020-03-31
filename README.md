@@ -104,3 +104,15 @@ To publish on Fortrabbit we need to:
 NOTE: You may have to set up SSH keys to work with Fortrabbit:
 
 ![ssh setup](screenshots/8_shh_setup.png)
+
+
+## MySQL queries
+
+You can use an SSH tunnel to use your local MySQL terminal to connect to and query the remote Fortrabbit database
+
+- follow the MySQL help steps from the Fortrabbit App dashboard
+
+![mysql hekp](screenshots/10_mysql_help.png)
+
+![mysql remote](screenshots/9_mysql.png)
+
