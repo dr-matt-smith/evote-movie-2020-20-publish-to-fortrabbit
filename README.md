@@ -2,6 +2,8 @@
 
 Publish our website to **Fortrabbit**, a PHP-As-A-Service hosting provider. We'll also add a reset DB link in the footer.
 
+- [Fortrabbit.com](https://www.fortrabbit.com/)
+
 ![published with reset DB link](screenshots/resetDb.png)
 
 - update our DB config file, so it can detect whether we are running locally, or in Fortrabbit. Change the contents of `/config/dbConstants.php` to the following:
