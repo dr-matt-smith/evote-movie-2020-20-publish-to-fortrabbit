@@ -95,7 +95,7 @@ To publish on Fortrabbit we need to:
 
 1. and click `home` link when DB reset information displayed
 
-    ![home link](screenshots/7_run_reseet.png)
+    ![home link](screenshots/7_run_reset.png)
 
 1. it should all work fine :-)
 
